@@ -1,0 +1,4 @@
+1. command 'node'
+2. type--> require('crypto').randomBytes(64)
+3. type--> require('crypto').randomBytes(64).toString()
+4. type--> require('crypto').randomBytes(64).toString('hex')
